@@ -22,6 +22,16 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
+# notes Start here
+  # sqlite
+   this is a file based database
+   # primsa
+   we need to migrate the each model in prisma by 
+   comand
+   # npx prisma migrate dev --name models added
+   # prisma adapter:- When user will logged in new user will be create in the database
+
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
